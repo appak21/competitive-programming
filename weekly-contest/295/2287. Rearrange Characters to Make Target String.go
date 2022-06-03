@@ -1,4 +1,3 @@
-//easy, 0 ms
 package contest
 
 func rearrangeCharacters(s string, target string) int {

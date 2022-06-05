@@ -13,3 +13,5 @@ LeetCode problems
 |2287|Rearrange Characters to Make Target String|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/295/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String.go)|57.4%|Easy|
 |2288|Apply Discount to Prices|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/295/2288.%20Apply%20Discount%20to%20Prices.go)|25.7%|Medium|
 |2293|Min Max Game|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/296/2293.%20Min%20Max%20Game.go)|62.1%|Easy|
+|2294|Partition Array Such That Maximum Difference Is K|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/296/2294.%20Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.go)|69.8%|Medium|
+2295|Replace Elements in an Array|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/296/2295.%20Replace%20Elements%20in%20an%20Array.go)|54.4%|Medium|

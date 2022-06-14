@@ -20,3 +20,4 @@ LeetCode problems
 |2295|Replace Elements in an Array|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/296/2295.%20Replace%20Elements%20in%20an%20Array.go)|54.4%|Medium|
 |2299|Strong Password Checker II|[Go](https://github.com/appak21/LeetCode/blob/master/biweekly-contest/80/2299.%20Strong%20Password%20Checker%20II.go)|55.3%|Easy|
 |2300|Successful Pairs of Spells and Potions|[Go](https://github.com/appak21/LeetCode/blob/master/biweekly-contest/80/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.go)|27.4%|Medium|
+|2303|Calculate Amount Paid in Taxes|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/297/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.go)|61.0%|Easy|

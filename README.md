@@ -21,3 +21,5 @@ LeetCode problems
 |2299|Strong Password Checker II|[Go](https://github.com/appak21/LeetCode/blob/master/biweekly-contest/80/2299.%20Strong%20Password%20Checker%20II.go)|55.3%|Easy|
 |2300|Successful Pairs of Spells and Potions|[Go](https://github.com/appak21/LeetCode/blob/master/biweekly-contest/80/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.go)|27.4%|Medium|
 |2303|Calculate Amount Paid in Taxes|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/297/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.go)|61.0%|Easy|
+|2309|Greatest English Letter in Upper and Lower Case|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/298/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.go)|68.4%|Easy|
+|2310|Sum of Numbers With Units Digit K|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/298/2310.%20Sum%20of%20Numbers%20With%20Units%20Digit%20K.go)|21.7%|Medium|

@@ -23,6 +23,6 @@ LeetCode problems
 |2303|Calculate Amount Paid in Taxes|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/297/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.go)|61.0%|Easy|
 |2309|Greatest English Letter in Upper and Lower Case|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/298/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.go)|68.4%|Easy|
 |2310|Sum of Numbers With Units Digit K|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/298/2310.%20Sum%20of%20Numbers%20With%20Units%20Digit%20K.go)|21.7%|Medium|
-|2315|Count Asterisks|[Go](https://github.com/appak21/LeetCode/blob/master/biweekly-contest/81/2315.%20Count%20Asterisks.go)||Easy|
-|2319|Check if Matrix Is X-Matrix|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/299/2319.%20Check%20if%20Matrix%20Is%20X-Matrix.go)||Easy|
-|2320|Count Number of Ways to Place Houses|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/299/2320.%20Count%20Number%20of%20Ways%20to%20Place%20Houses.go)||Medium|
+|2315|Count Asterisks|[Go](https://github.com/appak21/LeetCode/blob/master/biweekly-contest/81/2315.%20Count%20Asterisks.go)|79.9%|Easy|
+|2319|Check if Matrix Is X-Matrix|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/299/2319.%20Check%20if%20Matrix%20Is%20X-Matrix.go)|66.3%|Easy|
+|2320|Count Number of Ways to Place Houses|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/299/2320.%20Count%20Number%20of%20Ways%20to%20Place%20Houses.go)|35.5%|Medium|

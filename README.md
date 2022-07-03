@@ -26,3 +26,4 @@ LeetCode problems
 |2315|Count Asterisks|[Go](https://github.com/appak21/LeetCode/blob/master/biweekly-contest/81/2315.%20Count%20Asterisks.go)|79.9%|Easy|
 |2319|Check if Matrix Is X-Matrix|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/299/2319.%20Check%20if%20Matrix%20Is%20X-Matrix.go)|66.3%|Easy|
 |2320|Count Number of Ways to Place Houses|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/299/2320.%20Count%20Number%20of%20Ways%20to%20Place%20Houses.go)|35.5%|Medium|
+|2325|Decode the Message|[Go](https://github.com/appak21/LeetCode/blob/master/weekly-contest/300/2325.%20Decode%20the%20Message.go)||Easy|

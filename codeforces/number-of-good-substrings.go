@@ -1,18 +1,21 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
+	"os"
 	"strings"
 )
 
 func main() {
-	var l int
-	fmt.Scanf("%d\n", &l)
-	for i := 0; i < l; i++ {
+	in := bufio.NewReader(os.Stdin)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+	var T int
+	for fmt.Fscan(in, &T); T > 0; T-- {
 		var s, t string
-		fmt.Scanf("%s\n", &s)
-		fmt.Scanf("%s\n", &t)
-		fmt.Println(GoodSubstr(s, t))
+		fmt.Fscan(in, &s, &t)
+		fmt.Fprintln(out, GoodSubstr(s, t))
 	}
 }
 

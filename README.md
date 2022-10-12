@@ -37,5 +37,5 @@ LeetCode problems
 
 | No. | Title | Solution | Time | Memory |
 |:--------:|:----------------------------------------------------------------|:--------:|:--------:|:--------:|
-||Количество хороших подстрок - 1|[Go]()|15 ms|500 KB|
-||Z-функция строки Грея|[Go]()|31 ms|200 KB|
+||Количество хороших подстрок - 1|[Go](https://github.com/appak21/competitive-programming/blob/master/codeforces/number-of-good-substrings.go)|15 ms|500 KB|
+||Z-функция строки Грея|[Go](https://github.com/appak21/competitive-programming/blob/master/codeforces/z-function-of-gray-string.go)|31 ms|200 KB|

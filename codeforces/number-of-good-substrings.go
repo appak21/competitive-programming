@@ -33,7 +33,7 @@ func GoodSubstr(s, t string) int {
 }
 
 //SumOfArithmeticPr finds S(n) (sum of first n terms) of arithmetic progression
-//if a - first element, d - difference
+//a - first element, d - difference
 func SumOfArithmeticPr(a, n, d int) int {
 	return n * (2*a + (n-1)*d) / 2
 }
